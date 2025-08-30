@@ -1,0 +1,17 @@
+# Ignore Google credentials
+token.json
+credentials.json
+
+# Ignore data files
+*.pdf
+*.xlsx
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+
+# Virtual environment
+venv/
